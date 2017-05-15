@@ -6,7 +6,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
 		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.2.xsd">
 
-	<!-- 配置bean1 -->
+	<!-- 配置bean11 -->
 	<bean id= "helloWorld" class="com.howbuy.spring.HelloWorld">
 		<property name="name" ><value><![CDATA[<Spring]]>"</value></property>
 	
